@@ -10,8 +10,8 @@
 4. Was habe ich in der KI-gestützten Grundlagenphase gelernt oder vertieft?
 - Basics aufgefrischt
 5. Was habe ich über Pull Requests und Reviews gelernt?
-- /
+- nichts Neues
 6. Wo hatte ich Schwierigkeiten?
 - Coaching für VSCode, Git CLI & GitHub
 7. Was würde ich beim nächsten Mal anders machen?
-- vorher jedem Gruppenmitglied eine Grundlagenschulung in den wichtigsten relevanten Themen geben lassen
+- vorher jedem Gruppenmitglied eine Grundlagenschulung in den wichtigsten relevanten Themen geben lassen (auf gleichen Stand bringen)
