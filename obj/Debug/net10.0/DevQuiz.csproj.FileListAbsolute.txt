@@ -1,0 +1,14 @@
+C:\Users\Hamidu\DevQuiz\bin\Debug\net10.0\DevQuiz.exe
+C:\Users\Hamidu\DevQuiz\bin\Debug\net10.0\DevQuiz.deps.json
+C:\Users\Hamidu\DevQuiz\bin\Debug\net10.0\DevQuiz.runtimeconfig.json
+C:\Users\Hamidu\DevQuiz\bin\Debug\net10.0\DevQuiz.dll
+C:\Users\Hamidu\DevQuiz\bin\Debug\net10.0\DevQuiz.pdb
+C:\Users\Hamidu\DevQuiz\obj\Debug\net10.0\DevQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamidu\DevQuiz\obj\Debug\net10.0\DevQuiz.AssemblyInfoInputs.cache
+C:\Users\Hamidu\DevQuiz\obj\Debug\net10.0\DevQuiz.AssemblyInfo.cs
+C:\Users\Hamidu\DevQuiz\obj\Debug\net10.0\DevQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Hamidu\DevQuiz\obj\Debug\net10.0\DevQuiz.dll
+C:\Users\Hamidu\DevQuiz\obj\Debug\net10.0\refint\DevQuiz.dll
+C:\Users\Hamidu\DevQuiz\obj\Debug\net10.0\DevQuiz.pdb
+C:\Users\Hamidu\DevQuiz\obj\Debug\net10.0\DevQuiz.genruntimeconfig.cache
+C:\Users\Hamidu\DevQuiz\obj\Debug\net10.0\ref\DevQuiz.dll
