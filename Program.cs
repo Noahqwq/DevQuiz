@@ -20,7 +20,10 @@ while(running == true)
     {
         running = false;
     }
-    else{Console.WriteLine("\n\n\n")};
+    else{
+        Console.WriteLine("\n\n\n");
+        };
 
 }
+
 Console.WriteLine("See you next time...");
