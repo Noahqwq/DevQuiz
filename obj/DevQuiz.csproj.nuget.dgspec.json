@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hamidu\\DevQuiz\\DevQuiz.csproj": {}
+    "C:\\Users\\Lawin\\source\\repos\\DevQuiz\\DevQuiz\\DevQuiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hamidu\\DevQuiz\\DevQuiz.csproj": {
+    "C:\\Users\\Lawin\\source\\repos\\DevQuiz\\DevQuiz\\DevQuiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hamidu\\DevQuiz\\DevQuiz.csproj",
+        "projectUniqueName": "C:\\Users\\Lawin\\source\\repos\\DevQuiz\\DevQuiz\\DevQuiz.csproj",
         "projectName": "DevQuiz",
-        "projectPath": "C:\\Users\\Hamidu\\DevQuiz\\DevQuiz.csproj",
-        "packagesPath": "C:\\Users\\Hamidu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hamidu\\DevQuiz\\obj\\",
+        "projectPath": "C:\\Users\\Lawin\\source\\repos\\DevQuiz\\DevQuiz\\DevQuiz.csproj",
+        "packagesPath": "C:\\Users\\Lawin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lawin\\source\\repos\\DevQuiz\\DevQuiz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hamidu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lawin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
