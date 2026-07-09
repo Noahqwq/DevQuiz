@@ -3,7 +3,6 @@ Console.WriteLine();
 bool running = true;
 while(running == true)
 {
-    Console.Clear();
     Console.WriteLine("1: Quiz Starten\n2: HelpService aufrufen\n0: Beenden\n>>> ");
     string? input = Console.ReadLine();
 
