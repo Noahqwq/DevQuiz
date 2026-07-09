@@ -13,7 +13,8 @@ while(running == true)
     }
     else if(input == "2")
     {
-        Console.WriteLine("HelpService still in progress...");
+        HelpService.DisplayGeneralHelp();
+        HelpService.DisplayStartMenuHelp();
         running = false;
     }
     else if(input == "0")
